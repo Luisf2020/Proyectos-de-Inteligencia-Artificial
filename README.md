@@ -54,7 +54,3 @@ El proyecto basado en Breast Cancer Wisconsin tiene fines exclusivamente educati
 
 **Luis Felipe Zuniga L.**  
 GitHub: [@Luisf2020](https://github.com/Luisf2020)
-
-## Derechos de uso
-
-Este repositorio se publica como portafolio técnico. La visualización pública no implica autorización para presentar el trabajo original de esta colección como propio. Consulta `COPYRIGHT.md` y `NOTICE.md`.
